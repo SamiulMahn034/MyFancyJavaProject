@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a892c935-5e0a-4e92-80cb-89658d58612c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Add.java" afterDir="false" />
-    </list>
+    <list default="true" id="a892c935-5e0a-4e92-80cb-89658d58612c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="228" />
     <option name="y" value="40" />
     <option name="width" value="1400" />
@@ -96,7 +93,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="228" y="40" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25373134" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
