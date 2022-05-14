@@ -9,22 +9,22 @@ public class Add
     }
 }
 
-public class MUll
+public class Multiplication
+{
+    public static void main(String args[])
+    {   Multiplication
+        int number1 = 225, number2 = 115, sum;
+        MUll = number1 * number2;
+        System.out.println("The sum of numbers is: "+Multiplication);
+    }
+}
+
+public class Devide
 {
     public static void main(String args[])
     {   MUll
         int number1 = 225, number2 = 115, sum;
-        MUll = number1 * number2;
-        System.out.println("The sum of numbers is: "+sum);
-    }
-}
-
-public class Sub
-{
-    public static void main(String args[])
-    {
-        int number1 = 225, number2 = 115, sum;
-        Sub = number1 - number2;
-        System.out.println("The sum of numbers is: "+Sub);
+        MUll = number1 / number2;
+        System.out.println("The sum of numbers is: "Devided);
     }
 }
